@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkasfu&label=Profile%20views&color=0e75b6&style=flat" alt="darkasfu" /> </p>
 
-- 🔭 I’m currently working on [Learner Cafe](#)
+- 🔭 I’m currently working on [Learner Cafe](https://github.com/DarkAsfu/learner-cafe-client)
 
 - 🌱 I’m currently learning **Redux, NextJs**
 
