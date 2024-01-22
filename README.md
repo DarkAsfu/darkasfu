@@ -1,7 +1,7 @@
 ![MasterHead](https://i.ibb.co/hsXJsPD/Purple-Gradient-Digital-Marketing-Linked-In-Banner-1.png)
 <h1 align="center">Hi 👋, I'm Md. Ashraful Islam</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<a href="https://app.daily.dev/ashrafulislam"><img src="https://api.daily.dev/devcards/04c8a6eabda34bd5a9479a08475266cd.png?r=8gd" width="300" alt="Md. Ashraful Islam's Dev Card"/></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkasfu&label=Profile%20views&color=0e75b6&style=flat" alt="darkasfu" /> </p>
@@ -31,4 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkasfu&show_icons=true&locale=en&layout=compact" alt="darkasfu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkasfu&show_icons=true&locale=en" alt="darkasfu" /></p>
-<a href="https://app.daily.dev/ashrafulislam"><img src="https://api.daily.dev/devcards/04c8a6eabda34bd5a9479a08475266cd.png?r=8gd" width="200" alt="Md. Ashraful Islam's Dev Card"/></a>
+
