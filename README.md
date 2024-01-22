@@ -31,4 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkasfu&show_icons=true&locale=en&layout=compact" alt="darkasfu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkasfu&show_icons=true&locale=en" alt="darkasfu" /></p>
-<a href="https://app.daily.dev/ashrafulislam"><img src="https://api.daily.dev/devcards/04c8a6eabda34bd5a9479a08475266cd.png?r=8gd" width="400" alt="Md. Ashraful Islam's Dev Card"/></a>
+<a href="https://app.daily.dev/ashrafulislam"><img src="https://api.daily.dev/devcards/04c8a6eabda34bd5a9479a08475266cd.png?r=8gd" width="200" alt="Md. Ashraful Islam's Dev Card"/></a>
