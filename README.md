@@ -1,7 +1,7 @@
 ![MasterHead](https://i.ibb.co/hsXJsPD/Purple-Gradient-Digital-Marketing-Linked-In-Banner-1.png)
 <h1 align="center">Hi 👋, I'm Md. Ashraful Islam</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
-<img src="https://api.daily.dev/devcards/04c8a6eabda34bd5a9479a08475266cd.png?r=8gd" width="300" alt="Md. Ashraful Islam's Dev Card"/>
+<img src="https://api.daily.dev/devcards/04c8a6eabda34bd5a9479a08475266cd.png?r=8gd" width="200" alt="Md. Ashraful Islam's Dev Card"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkasfu&label=Profile%20views&color=0e75b6&style=flat" alt="darkasfu" /> </p>
