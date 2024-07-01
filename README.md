@@ -34,4 +34,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=[darkasfu]" alt="darkasfu" /></p>
 
-<p>&nbsp;<img src="https://github-readme-activity-graph.vercel.app/graph?username=darkasfu"/></p>px
+<p>&nbsp;<img src="https://github-readme-activity-graph.vercel.app/graph?username=darkasfu"/></p>
