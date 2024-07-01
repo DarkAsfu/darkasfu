@@ -31,4 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkasfu&show_icons=true&locale=en&layout=compact" alt="darkasfu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkasfu&show_icons=true&locale=en" alt="darkasfu" /></p>
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=[darkasfu]" alt="darkasfu" /></p>
