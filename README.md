@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 <!-- <img src="https://api.daily.dev/devcards/04c8a6eabda34bd5a9479a08475266cd.png?r=8gd" width="200" alt="Md. Ashraful Islam's Dev Card"/> -->
 <!-- <a href="https://app.daily.dev/ashrafulislam"><img src="https://api.daily.dev/devcards/v2/UWZogFBvVYIbCrYgVQkJ3.png?type=default&r=whn" width="356" alt="Md. Ashraful Islam's Dev Card"/></a> -->
-<a href="https://app.daily.dev/ashrafulislam"><img src="https://api.daily.dev/devcards/v2/UWZogFBvVYIbCrYgVQkJ3.png?type=wide&r=whn" width="652" alt="Md. Ashraful Islam's Dev Card"/></a>
+<a href="https://app.daily.dev/ashrafulislam"><img src="https://api.daily.dev/devcards/v2/UWZogFBvVYIbCrYgVQkJ3.png?type=wide&r=whn" width="450" alt="Md. Ashraful Islam's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkasfu&label=Profile%20views&color=0e75b6&style=flat" alt="darkasfu" /> </p>
 
 - 🔭 I’m currently working on [Learner Cafe](https://github.com/DarkAsfu/learner-cafe-client)
