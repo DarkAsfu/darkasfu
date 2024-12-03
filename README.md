@@ -94,11 +94,10 @@
 ---
 
 ### GitHub Stats:
-
+[![Ashraful's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darkasfu&theme=github-compact)](https://github.com/darkasfu/github-readme-activity-graph)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkasfu&show_icons=true&locale=en&layout=compact" alt="darkasfu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkasfu&show_icons=true&locale=en" alt="darkasfu" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darkasfu" alt="darkasfu" /></p>
 
-[![Ashraful's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darkasfu&theme=react-dark)](https://github.com/darkasfu/github-readme-activity-graph)
