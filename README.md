@@ -1,4 +1,5 @@
-![MasterHead](https://i.ibb.co/hsXJsPD/Purple-Gradient-Digital-Marketing-Linked-In-Banner-1.png)
+
+![MasterHead](https://github.com/user-attachments/assets/5ad4781d-f6e5-4e4a-9a69-5c8b69ad69c3)
 
 <h1 align="center">Hi 👋, I'm Md. Ashraful Islam</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
