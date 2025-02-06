@@ -12,18 +12,18 @@
   <img src="https://komarev.com/ghpvc/?username=darkasfu&label=Profile%20views&color=0e75b6&style=flat" alt="darkasfu" /> 
 </p>
 
-- 🔭 I’m currently working on [Learner Cafe](https://github.com/DarkAsfu/learner-cafe-client)
+- 🔭 I’m currently working on [Traveloara](https://dev.traveloara.com)
 - 🌱 I’m currently learning **Redux**, **Next.js**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ashrafulislam.vercel.app/)
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB**
-- 📫 How to reach me: **ashraful.islam0871@gmail.com** or **ashrafulislam0853@gmail.com**
+- 📫 How to reach me: ashrafulislamdev01@gmail.com
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1XG6-6QdXCAGtgcx5RGB8PlI1arURbn6s/view?usp=drive_link)
 
 ---
 
 ### Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/ashrafulislamm" target="blank">
+  <a href="https://linkedin.com/in/ashrafulislamdev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashrafulislamm" height="30" width="40" />
   </a>
   <a href="https://fb.com/heyashrafulislam" target="blank">
