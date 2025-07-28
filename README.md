@@ -13,8 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=darkasfu&label=Profile%20views&color=0e75b6&style=flat" alt="darkasfu" /> 
 </p>
 
-- 🔭 I’m currently working on [Traveloara](https://dev.traveloara.com)
-- 🌱 I’m currently learning **Redux**, **Next.js**
+- 🔭 I’m currently working on **Fuel Station Management**
+- 🌱 I’m currently learning **Redux**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ashrafulislam.vercel.app/)
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB**
 - 📫 How to reach me: ashrafulislamdev01@gmail.com
