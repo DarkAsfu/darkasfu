@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5ad4781d-f6e5-4e4a-9a69-5c8b69ad69c3" width="100%" alt="Banner" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=darkasfu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/darkasfu?label=Followers&style=social" alt="Followers" />
 </p>
