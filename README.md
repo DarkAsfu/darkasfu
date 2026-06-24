@@ -6,7 +6,6 @@
 <h1 align="center">Hi 👋, I'm Md. Ashraful Islam</h1>
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" />
   MERN Stack Developer | Building Scalable & High-Performance Web Applications
 </h3>
 
@@ -157,7 +156,7 @@ const ashraful = {
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="25" height="25" /> Thanks for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sparkles.png" alt="Sparkles" width="25" height="25" />
+  Thanks for visiting!
 </p>
 
 <p align="center">
