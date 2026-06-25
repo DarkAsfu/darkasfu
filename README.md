@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Md. Ashraful Islam</h1>
 
 <h3 align="center">
-  MERN Stack Developer | Building Scalable & High-Performance Web Applications
+  Software Engineer | Building Scalable & High-Performance Web Applications
 </h3>
 
 <p align="center">
