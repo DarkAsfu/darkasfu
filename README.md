@@ -27,6 +27,7 @@ const ashraful = {
   portfolio: "https://heyashraful.vercel.app",
   resume: "https://drive.google.com/file/d/1F_qMCHueKrgznqPj-HFCAROz6EJseJ4_/view",
   email: "ashrafulislamdev01@gmail.com",
+  phone: "+8801777112564",
   currentFocus: "Building Scalable Web Applications",
   learning: ["DevOps", "System Design", "Cloud Architecture"],
   philosophy: "Clean code, great UX, scalable systems",
