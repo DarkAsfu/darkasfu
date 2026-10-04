@@ -1,19 +1,24 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darkasfu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/darkasfu?label=Followers&style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=darkasfu&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub profile views of Md. Ashraful Islam" />
+  <img src="https://img.shields.io/github/followers/darkasfu?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Md. Ashraful Islam</h1>
+<h1 align="center">Md. Ashraful Islam</h1>
 
 <h3 align="center">
-  Full Stack Developer at Bintel Future Tech. Next.js, TypeScript, PostgreSQL, Prisma, RAG + pgvector. IEEE published. Open to remote.
+  Full Stack Developer from Bangladesh | Next.js, Node.js, TypeScript, RAG & AI Apps
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ashrafulislamdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://fb.com/heyashrafulislam" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://discord.gg/ashrafulislam2" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="mailto:ashrafulislamdev01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  I'm <b>Md. Ashraful Islam (Ashraful Islam)</b>, a Full Stack Developer based in Bangladesh. I build scalable, high-performance web applications and <b>RAG-based AI applications</b> using Next.js, TypeScript, Node.js, PostgreSQL, pgvector and LLMs.
+</p>
+
+<p align="center">
+  <a href="https://heyashraful.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-heyashraful.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ashraful Islam portfolio website" /></a>
+  <a href="https://linkedin.com/in/heyashrafulislam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ashraful Islam LinkedIn" /></a>
+  <a href="https://fb.com/heyashrafulislam" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Ashraful Islam Facebook" /></a>
+  <a href="https://discord.gg/ashrafulislam2" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Ashraful Islam Discord" /></a>
+  <a href="mailto:ashrafulislamdev01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ashraful Islam" /></a>
 </p>
 
 ---
@@ -29,7 +34,7 @@ const ashraful = {
   resume: "https://drive.google.com/file/d/1F_qMCHueKrgznqPj-HFCAROz6EJseJ4_/view",
   email: "ashrafulislamdev01@gmail.com",
   phone: "+8801777112564",
-  currentFocus: "Building Scalable Web Applications & Applied AI Research",
+  currentFocus: "Scalable Web Applications, RAG & AI Apps",
   learning: ["DevOps", "System Design", "Cloud Architecture"],
   philosophy: "Clean code, great UX, scalable systems",
   goal: "Senior Full Stack Engineer 🎯"
@@ -37,11 +42,95 @@ const ashraful = {
 ```
 
 - 💼 **Currently working at** — Bintel Future Tech as a Full Stack Developer (since May 2026)
-- 🔭 **Currently building** — Production-ready full-stack applications with Next.js, TypeScript, Node.js, PostgreSQL & Prisma
+- 🤖 **Building** — RAG-based AI applications with Next.js, PostgreSQL, pgvector, embeddings and LLMs
+- 🔭 **Also building** — Production-ready full-stack apps with Next.js, TypeScript, Node.js, PostgreSQL & Prisma
 - 🔬 **Research** — Federated learning & Explainable AI (XAI) for medical diagnosis
 - 🌱 **Currently learning** — DevOps, System Design & Cloud Architecture
-- ⚡ **Focused on** — Clean code, performance & great user experience
 - 🎯 **Goal** — Become a **Senior Full Stack Engineer**
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 TRSP AI — RAG-based Book-to-Assessment Platform</h3>
+      <br />
+      <p align="center">A Retrieval-Augmented Generation (RAG) platform that turns uploaded book PDFs into MCQs, CQs (Creative Questions) and summaries using embeddings, pgvector and LLMs, and solves CQs with answers scaled to each sub-question's marks.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/RAG-0e75b6?style=flat" alt="RAG" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white" alt="pgvector" />
+        <img src="https://img.shields.io/badge/Embeddings-412991?style=flat" alt="Embeddings" />
+        <img src="https://img.shields.io/badge/LLM-412991?style=flat" alt="LLM" />
+      </p>
+      <p align="center">
+        <b>Features:</b> PDF Upload, RAG-based MCQ/CQ Generation, CQ Solver, Summaries
+      </p>
+      <p align="center">
+        <a href="https://ai.trspbd.com/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="TRSP AI live demo" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 LMS (Learning Management System)</h3>
+      <br />
+      <p align="center">Full-stack LMS with course management, quizzes, invoices, and real-time progress tracking.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
+      </p>
+      <p align="center">
+        <b>Features:</b> Course Player, Quizzes, Invoices, i18n
+      </p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="LMS live demo" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="LMS source code" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔥 Clixsy</h3>
+      <br />
+      <p align="center">A full-stack platform focused on scalable architecture and real-world usability.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+      <p align="center">
+        <b>Features:</b> Auth, Dashboard, Role-based System
+      </p>
+      <p align="center">
+        <a href="https://clixsycard.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Clixsy live demo" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Clixsy source code" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Octablume</h3>
+      <br />
+      <p align="center">Software & IT solutions agency website showcasing services, the OctaSchool ERP product and client portfolio.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <p align="center">
+        <b>Features:</b> Services, Product Showcase, Portfolio, Careers, Contact
+      </p>
+      <p align="center">
+        <a href="https://octablume.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Octablume live website" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -55,6 +144,8 @@ const ashraful = {
 
 ## 🛠️ Tech Stack
 
+**Skills:** Next.js, React, TypeScript, JavaScript, Node.js, Express.js, Prisma, PostgreSQL, pgvector, MongoDB, MySQL, Firebase, RAG (Retrieval-Augmented Generation), Embeddings, LLM, FastAPI, Docker, Git, Tailwind CSS, Redux.
+
 <h4 align="center">Frontend</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -63,7 +154,7 @@ const ashraful = {
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 </p>
 
@@ -102,90 +193,6 @@ const ashraful = {
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔥 Clixsy</h3>
-      <br />
-      <p align="center">A full-stack platform focused on scalable architecture and real-world usability.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-      </p>
-      <p align="center">
-        <b>Features:</b> Auth, Dashboard, Role-based System
-      </p>
-      <p align="center">
-        <a href="https://clixsycard.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📚 LMS (Learning Management System)</h3>
-      <br />
-      <p align="center">Full-stack LMS with course management, quizzes, invoices, and real-time progress tracking.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
-      </p>
-      <p align="center">
-        <b>Features:</b> Course Player, Quizzes, Invoices, i18n
-      </p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 TRSP AI — Book-to-Assessment Platform</h3>
-      <br />
-      <p align="center">AI platform that turns uploaded book PDFs into MCQs, CQs and summaries, and solves CQs with answers scaled to each sub-question's marks.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white" alt="pgvector" />
-        <img src="https://img.shields.io/badge/Embeddings-412991?style=flat" alt="Embeddings" />
-        <img src="https://img.shields.io/badge/LLM-412991?style=flat" alt="LLM" />
-        <img src="https://img.shields.io/badge/RAG-0e75b6?style=flat" alt="RAG" />
-      </p>
-      <p align="center">
-        <b>Features:</b> PDF Upload, RAG-based MCQ/CQ Generation, CQ Solver, Summaries
-      </p>
-      <p align="center">
-        <a href="https://ai.trspbd.com/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Octablume</h3>
-      <br />
-      <p align="center">Software & IT solutions agency website showcasing services, the OctaSchool ERP product and client portfolio.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </p>
-      <p align="center">
-        <b>Features:</b> Services, Product Showcase, Portfolio, Careers, Contact
-      </p>
-      <p align="center">
-        <a href="https://octablume.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🔬 Research & Publications
 
 - 📄 **ThyroNet-XAI** — Co-author, IEEE (QPAIN 2026)
@@ -203,12 +210,12 @@ const ashraful = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkasfu&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkasfu&layout=compact&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darkasfu&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="Ashraful Islam GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkasfu&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Ashraful Islam top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkasfu&theme=github-dark&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkasfu&theme=github-dark&hide_border=true" height="170" alt="Ashraful Islam GitHub streak" />
 </p>
 
 ---
@@ -216,7 +223,7 @@ const ashraful = {
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkasfu&theme=github-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkasfu&theme=github-dark&hide_border=true" width="100%" alt="Ashraful Islam GitHub activity graph" />
 </p>
 
 ---
@@ -225,9 +232,6 @@ const ashraful = {
 
 <p align="center">
   <i>"Building scalable, maintainable, and impactful applications using clean architecture and modern technologies."</i>
-  <br /><br />
-  <img src="https://img.shields.io/badge/Always_Learning-000000?style=for-the-badge&logo=codeium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Always_Improving-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
